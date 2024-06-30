@@ -16,6 +16,7 @@ table.insert(pfUI.gui.dropdowns.fonts, addonpath .. "\\fonts\\BarlowCondensed-Me
 table.insert(pfUI.gui.dropdowns.fonts, addonpath .. "\\fonts\\BigNoodleTitlingOblique.ttf:BigNoodleTitlingOblique")
 table.insert(pfUI.gui.dropdowns.fonts, addonpath .. "\\fonts\\FjallaOne-Regular.ttf:FjallaOne")
 table.insert(pfUI.gui.dropdowns.fonts, addonpath .. "\\fonts\\FTY.ttf:FTY")
+table.insert(pfUI.gui.dropdowns.fonts, addonpath .. "\\fonts\\Kingthings Foundation.ttf:Kingthings")
 table.insert(pfUI.gui.dropdowns.fonts, addonpath .. "\\fonts\\PathwayGothicOne-Regular.ttf:PathwayGothicOne")
 table.insert(pfUI.gui.dropdowns.fonts, addonpath .. "\\fonts\\RoadRage-Regular.ttf:RoadRage")
 table.insert(pfUI.gui.dropdowns.fonts, addonpath .. "\\fonts\\US101.ttf:US101")
